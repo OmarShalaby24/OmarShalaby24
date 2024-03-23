@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarshalaby24" alt="omarshalaby24" /></a> </p>
-
 - 🌱 I’m currently learning **Relational Database, Information Security, Back End Development and APIs**
 
 - 👨‍💻 All of my projects are available at [""]("")
@@ -20,8 +18,11 @@
 <a href="https://codepen.io/omar-shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omar-shalaby" height="30" width="40" /></a>
 <a href="https://dev.to/omarshalaby24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omarshalaby24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omarshalaby24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarshalaby24" height="30" width="40" /></a>
+<a href="https://medium.com/@oshalaby139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oshalaby139" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/xenderzed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramo_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramo_24" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@oshalaby139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@oshalaby139" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<oshalaby139>/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

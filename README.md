@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Shalaby</h1>
-<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with Bachelor's degree in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshalaby24&show_icons=true&locale=en&layout=compact" alt="omarshalaby24" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarshalaby24&show_icons=true&locale=en" alt="omarshalaby24" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarshalaby24&" alt="omarshalaby24" />
-</p>
+<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with Bachelor's in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
+<br/>
+<br/>
 
 - 🌱 I’m currently learning **Relational Database, Information Security, Back End Development and APIs**
 
@@ -24,6 +12,29 @@
 - 📫 How to reach me **ramo_24@outlook.com**
 
 <!-- - 📄 Know about my experiences [Check my CV]() -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
+<br/>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshalaby24&show_icons=true&locale=en&layout=compact" alt="omarshalaby24" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarshalaby24&show_icons=true&locale=en" alt="omarshalaby24" />
+</p>
+<p>
+<img align='right' src="./imgs/giphy (4).gif" width=300>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarshalaby24&" alt="omarshalaby24" />
+</p>
+<p>
+<img align='right' src="./imgs/giphy (1).gif" width=300>
+</p>
+<p>
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=omarshalaby24&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="omarshalaby24"  />
+</p>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -71,9 +82,11 @@
 
 <h3 align="left">Tools and Package Managers:</h3>
 <p align="left">
+  <a href="https://www.postman.com/" title="Postman"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </a>
+  <a href="https://git-scm.com/" title="Git"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> </a>
+  <a href="https://github.com/OmarShalaby24" title="Github"> <img src="https://skillicons.dev/icons?i=github" alt="github" /> </a>
   <a href="https://www.npmjs.com/" title="NPM"> <img src="https://skillicons.dev/icons?i=npm" alt="npm" /> </a>
   <a href="https://yarnpkg.com/" title="Yarn"> <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" /> </a>
-  <a href="https://www.postman.com/" title="Postman"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </a>
 </p>
 
 <h3 align="left">IDEs:</h3>
@@ -98,7 +111,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omarshalaby24" /></a>
-  <a href="https://github.com/OmarShalaby24" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="omarshalaby24" height="50" width="50" /></a>
+  <!-- <a href="https://github.com/OmarShalaby24" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="omarshalaby24" height="50" width="50" /></a> -->
   <a href="https://www.hackerrank.com/xenderzed" ><img align="center" style='border-radius: 20%' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed" height="50" width="50"  /></a>
   <a href="https://www.leetcode.com/ramo_24" ><img align="center" style="border-radius:20%" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="ramo_24" height="50" width="50" /></a>
   <a href="https://codepen.io/omar-shalaby" ><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="omar-shalaby" /></a>
@@ -107,3 +120,11 @@
   <a href="https://www.hackerearth.com/@oshalaby139" ><img align="center" style="border-radius:20%" src="https://yt3.googleusercontent.com/eHg55hwKTHKaPdmhFPZN9nDVcTYj_tlZJSHI1RNzn6fH38klq02hhAcyEPGioyXaLdIMNqX90w=s900-c-k-c0x00ffffff-no-rj" alt="@oshalaby139" height="50" width="50" /></a>
   <a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" ><img align="center" style="border-radius:20%" src="https://media.geeksforgeeks.org/wp-content/uploads/20220115184050/gfglogo.png" alt="<oshalaby139>/profile" height="50" width="50" /></a>
 </p>
+
+<p>
+<img align='center' src="./imgs/giphy (6).gif" width=400>
+</p>
+
+<!-- ### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Shalaby</h1>
-<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with Bachelor's in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
+<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with Bachelor's degree in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
 

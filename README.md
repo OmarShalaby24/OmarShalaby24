@@ -13,23 +13,73 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L-KdBtFcrNE0hYohH0tzxOcHsWmnTfZe/view?usp=drive_link](https://drive.google.com/file/d/1L-KdBtFcrNE0hYohH0tzxOcHsWmnTfZe/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Programming Languages:</h3>
+<a href="https://www.java.com"> <img src="https://skillicons.dev/icons?i=java" alt="java" /></a>
+<a href="https://www.cprogramming.com/"> <img src="https://skillicons.dev/icons?i=c" alt="c" /> </a>
+<a href="https://www.w3schools.com/cpp/"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" /></a>
+<a href="https://www.w3schools.com/cs/"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" /></a>
+<a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=py" alt="python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
+<a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://skillicons.dev/icons?i=css" alt="CSs"/></a>
+<a href="https://www.php.net/"> <img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
+<a href="https://soliditylang.org/"> <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" /></a>
+<a href="https://www.gnu.org/software/bash/"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
+<h3 align="left">Mobile App Development:</h3>
+<a href="https://reactnative.dev/" > <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> </a>
+<h3 align="left">Frontend Development:</h3>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=react" alt=React" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=qt" alt="Qt" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=md" alt="md" /> </a>
+<h3 align="left">Backend Development:</h3>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=express" alt="express" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" /> </a>
+<h3 align="left">Databases and Tools:</h3>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> </a>
+<h3 align="left">Tools and Package Managers:</h3>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=npm" alt="npm" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </a>
+<h3 align="left">IDEs:</h3>
 <p align="left">
-<a href="https://codepen.io/omar-shalaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="omar-shalaby" height="30" width="40" /></a>
-<a href="https://dev.to/omarshalaby24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omarshalaby24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omarshalaby24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarshalaby24" height="30" width="40" /></a>
-<a href="https://medium.com/@oshalaby139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oshalaby139" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/xenderzed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramo_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramo_24" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@oshalaby139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@oshalaby139" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<oshalaby139>/profile" height="30" width="40" /></a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=idea" alt="Idea" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=atom" alt="Atom" /> </a>
+<a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /> </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Operating Systems:</h3>
+<p align="left">
+  <a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=windows" alt="Windows" /> </a>
+  <a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> </a>
+  <a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /> </a>
+  <a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=kali" alt="Kali" /> </a>
+  <a href="https://react.dev/" > <img src="https://skillicons.dev/icons?i=parrot" alt="parrot" /> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshalaby24&show_icons=true&locale=en&layout=compact" alt="omarshalaby24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarshalaby24&show_icons=true&locale=en" alt="omarshalaby24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarshalaby24&" alt="omarshalaby24" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omarshalaby24" /></a>
+  <a href="https://github.com/OmarShalaby24" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="omarshalaby24" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/xenderzed" ><img align="center" style='border-radius: 20%' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed" height="50" width="50"  /></a>
+  <a href="https://www.leetcode.com/ramo_24" ><img align="center" style="border-radius:20%" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="ramo_24" height="50" width="50" /></a>
+  <a href="https://codepen.io/omar-shalaby" ><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="omar-shalaby" /></a>
+  <a href="https://dev.to/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=devto" alt="omarshalaby24" /></a>
+  <a href="https://medium.com/@oshalaby139" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@oshalaby139" height="50" width="50" /></a>
+  <a href="https://www.hackerearth.com/@oshalaby139" ><img align="center" style="border-radius:20%" src="https://yt3.googleusercontent.com/eHg55hwKTHKaPdmhFPZN9nDVcTYj_tlZJSHI1RNzn6fH38klq02hhAcyEPGioyXaLdIMNqX90w=s900-c-k-c0x00ffffff-no-rj" alt="@oshalaby139" height="50" width="50" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" ><img align="center" style="border-radius:20%" src="https://media.geeksforgeeks.org/wp-content/uploads/20220115184050/gfglogo.png" alt="<oshalaby139>/profile" height="50" width="50" /></a>
+</p>

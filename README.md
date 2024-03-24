@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Shalaby</h1>
-<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with Bachelor's in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
+<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with a Bachelor's degree in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
 <br/>
 <br/>
 
@@ -111,14 +111,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omarshalaby24" /></a>
-  <!-- <a href="https://github.com/OmarShalaby24" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="omarshalaby24" height="50" width="50" /></a> -->
-  <a href="https://www.hackerrank.com/xenderzed" ><img align="center" style='border-radius: 20%' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed" height="50" width="50"  /></a>
-  <a href="https://www.leetcode.com/ramo_24" ><img align="center" style="border-radius:20%" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="ramo_24" height="50" width="50" /></a>
+  <!-- <a href="https://github.com/OmarShalaby24" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="omarshalaby24"  /></a> -->
+  <a href="https://www.hackerrank.com/xenderzed" ><img align="center" style='border-radius: 20%; width:50px; height:50px;' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed"   /></a>
+  <a href="https://www.leetcode.com/ramo_24" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="ramo_24"  /></a>
   <a href="https://codepen.io/omar-shalaby" ><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="omar-shalaby" /></a>
   <a href="https://dev.to/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=devto" alt="omarshalaby24" /></a>
-  <a href="https://medium.com/@oshalaby139" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@oshalaby139" height="50" width="50" /></a>
-  <a href="https://www.hackerearth.com/@oshalaby139" ><img align="center" style="border-radius:20%" src="https://yt3.googleusercontent.com/eHg55hwKTHKaPdmhFPZN9nDVcTYj_tlZJSHI1RNzn6fH38klq02hhAcyEPGioyXaLdIMNqX90w=s900-c-k-c0x00ffffff-no-rj" alt="@oshalaby139" height="50" width="50" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" ><img align="center" style="border-radius:20%" src="https://media.geeksforgeeks.org/wp-content/uploads/20220115184050/gfglogo.png" alt="<oshalaby139>/profile" height="50" width="50" /></a>
+  <a href="https://medium.com/@oshalaby139" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@oshalaby139" /></a>
+  <a href="https://www.hackerearth.com/@oshalaby139" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://yt3.googleusercontent.com/eHg55hwKTHKaPdmhFPZN9nDVcTYj_tlZJSHI1RNzn6fH38klq02hhAcyEPGioyXaLdIMNqX90w=s900-c-k-c0x00ffffff-no-rj" alt="@oshalaby139" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://media.geeksforgeeks.org/wp-content/uploads/20220115184050/gfglogo.png" alt="<oshalaby139>/profile"  /></a>
 </p>
 
 <p>

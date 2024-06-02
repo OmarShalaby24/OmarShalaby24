@@ -68,6 +68,7 @@
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
+  <a href="https://nestjs.com/" title="NestJS"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /> </a>
   <a href="https://nodejs.org/en" title="Nodejs"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> </a>
   <a href="https://expressjs.com/" title="ExpressJs"> <img src="https://skillicons.dev/icons?i=express" alt="express" /> </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title="ASP.Net Core"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" /> </a>

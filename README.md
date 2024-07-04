@@ -60,7 +60,8 @@
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://getbootstrap.com/" title="Bootstrap" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
-  <a href="https://react.dev/" title="ReactJs"> <img src="https://skillicons.dev/icons?i=react" alt=React" /> </a>
+  <a href="https://react.dev/" title="ReactJs"> <img src="https://skillicons.dev/icons?i=react" alt="React" /> </a>
+  <a href="https://nextjs.org/" title="Next.JS"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.JS" /> </a>
   <a href="https://mui.com/" title="MaterialUI"> <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" /> </a>
   <a href="https://www.qt.io/" title="Qt"> <img src="https://skillicons.dev/icons?i=qt" alt="Qt" /> </a>
   <!-- <a href="https://www.markdownguide.org/" title=".md"> <img src="https://skillicons.dev/icons?i=md" alt="md" /> </a> -->

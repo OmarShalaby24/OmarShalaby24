@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Omar Shalaby 👋</h1>
 
-<h5 align="center">Welcome to my GitHub profile! I'm <em>Omar Shalaby</em>, a passionate <em>Software and Computer Engineer</em> from Alexandria, Egypt. I love exploring new technologies and creating innovative solutions to challenging problems.</h5>
+<p align="center">Welcome to my GitHub profile! I'm <strong>Omar Shalaby</strong>, a passionate <strong>Software and Computer Engineer</strong> from Alexandria, Egypt. I love exploring new technologies and creating innovative solutions to challenging problems.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
 

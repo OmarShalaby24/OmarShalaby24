@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
 
 <br/>
-<h3>About Me</h3>
+<h2>About Me</h2>
 - 🎓 I graduated with a Bachelor's degree in Computer and Communication Engineering from Alexandria University.
   
 - 💼 Currently, I'm working remotely as a Software Engineer at RocketDevs in San Francisco.
@@ -40,22 +40,28 @@
 <p>
 <img align="center" src="https://github-contributor-stats.vercel.app/api?username=omarshalaby24&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="omarshalaby24"  />
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<h3 align="left">Programming Languages:</h3>
-<h5 align="left">Expert:</h5>
+<h2 align="center">Programming Languages:</h2>
+<h5 align="center">Expert:</h5>
+<p align="center">
   <a href="https://www.java.com" title="Java"> <img src="https://skillicons.dev/icons?i=java" alt="java" /></a>
   <a href="https://www.python.org/" title="python"> <img src="https://skillicons.dev/icons?i=py" alt="python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a>
+</p>
 
-<h5 align="left">Profient:</h5>
-<p align="left">
+<h5 align="center">Profient:</h5>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"> <img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"> <img src="https://skillicons.dev/icons?i=css" alt="CSs"/></a>
   <a href="https://www.gnu.org/software/bash/" title="Bash"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
 </p>
-<p align="left">
-<h5 align="left">Familier:</h5>
+<h5 align="center">Familier:</h5>
+<p align="center">
   <a href="https://www.php.net/" title="PHP"> <img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
   <a href="https://soliditylang.org/" title="Solidity"> <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" /></a>
   <a href="https://www.cprogramming.com/" title="C language"> <img src="https://skillicons.dev/icons?i=c" alt="c" /> </a>
@@ -63,49 +69,53 @@
   <a href="https://www.w3schools.com/cs/" title="C#"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" /></a>
 </p>
 
-<h3 align="left">Mobile App Development:</h3>
-<h5 align="left">Expert:</h5>
-<p align="left">
+<h2 align="center">Mobile App Development:</h2>
+<h5 align="center">Expert:</h5>
+<p align="center">
   <a href="https://reactnative.dev/" title="React native"> <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> </a>
 </p>
 
-<h3 align="left">Frontend Development:</h3>
-<h5 align="left">Profient:</h5>
-<p align="left">
+<h2 align="center">Frontend Development:</h2>
+<h5 align="center">Profient:</h5>
+<p align="center">
   <a href="https://react.dev/" title="ReactJs"> <img src="https://skillicons.dev/icons?i=react" alt="React" /> </a>
   <a href="https://nextjs.org/" title="Next.JS"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.JS" /> </a>
   <a href="https://getbootstrap.com/" title="Bootstrap" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
 </p>
-<h5 align="left">Familier:</h5>
-<p align="left">
+<h5 align="center">Familier:</h5>
+<p align="center">
   <a href="https://mui.com/" title="MaterialUI"> <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" /> </a>
   <a href="https://tailwindcss.com/" title="Tailwind"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /> </a>
   <a href="https://www.qt.io/" title="Qt"> <img src="https://skillicons.dev/icons?i=qt" alt="Qt" /> </a>
   <!-- <a href="https://www.markdownguide.org/" title=".md"> <img src="https://skillicons.dev/icons?i=md" alt="md" /> </a> -->
 </p>
 
-<h3 align="left">Backend Development:</h3>
-<h5 align="left">Profient:</h5>
+<h2 align="center">Backend Development:</h2>
+<h5 align="center">Profient:</h5>
+<p align="center">
   <a href="https://nestjs.com/" title="NestJS"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /> </a>
   <a href="https://nodejs.org/en" title="Nodejs"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> </a>
   <a href="https://expressjs.com/" title="ExpressJs"> <img src="https://skillicons.dev/icons?i=express" alt="express" /> </a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> </a>
-<h5 align="left">Familier:</h5>
+</p>
+<h5 align="center">Familier:</h5>
+<p align="center">
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title="ASP.Net Core"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" /> </a>
   <a href="https://www.docker.com/" title="Docker"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" /> </a>
-<p align="left">
+</p>
+<p align="center">
 </p>
 
-<h3 align="left">Databases and Tools:</h3>
-<p align="left">
+<h2 align="center">Databases and Tools:</h2>
+<p align="center">
   <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> </a>
   <a href="https://www.mysql.com/" title="MySQL"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </a>
   <a href="https://www.postgresql.org/" title="PostgreSQL"> <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> </a>
   <a href="https://www.sqlite.org/" title="SQLite"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /> </a>
 </p>
 
-<h3 align="left">Tools and Package Managers:</h3>
-<p align="left">
+<h2 align="center">Tools and Package Managers:</h2>
+<p align="center">
   <a href="https://www.postman.com/" title="Postman"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </a>
   <a href="https://git-scm.com/" title="Git"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> </a>
   <a href="https://github.com/OmarShalaby24" title="Github"> <img src="https://skillicons.dev/icons?i=github" alt="github" /> </a>
@@ -113,8 +123,8 @@
   <a href="https://yarnpkg.com/" title="Yarn"> <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" /> </a>
 </p>
 
-<h3 align="left">IDEs:</h3>
-<p align="left">
+<h2 align="center">IDEs:</h2>
+<p align="center">
   <a href="https://www.jetbrains.com/idea/" title="IntelliJ"> <img src="https://skillicons.dev/icons?i=idea" alt="Idea" /> </a>
   <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"> <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> </a>
   <a href="https://visualstudio.microsoft.com/" title="Visual Studio"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /> </a>
@@ -124,16 +134,16 @@
   <a href="https://eclipseide.org/" title="Eclipse"> <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /> </a>
 </p>
 
-<h3 align="left">Operating Systems:</h3>
-<p align="left">
+<h2 align="center">Operating Systems:</h2>
+<p align="center">
     <a href="https://www.microsoft.com/en-us/windows?r=1" title="Windows"> <img src="https://skillicons.dev/icons?i=windows" alt="Windows" /> </a>
     <a href="" title=""> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> </a>
     <a href="https://ubuntu.com/" title="Ubuntu Linux"> <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /> </a>
     <a href="https://kali.org/" title="Kali Linux"> <img src="https://skillicons.dev/icons?i=kali" alt="Kali" /> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
   <a href="https://linkedin.com/in/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="omarshalaby24" /></a>
   <!-- <a href="https://github.com/OmarShalaby24" ><img align="center" src="https://skillicons.dev/icons?i=github" alt="omarshalaby24"  /></a> -->
   <a href="https://www.hackerrank.com/xenderzed" ><img align="center" style='border-radius: 20%; width:50px; height:50px;' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xenderzed"   /></a>
@@ -145,10 +155,10 @@
   <a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://media.geeksforgeeks.org/wp-content/uploads/20220115184050/gfglogo.png" alt="<oshalaby139>/profile"  /></a>
 </p>
 
-<p>
-<img align='center' src="./imgs/giphy (6).gif" width=400>
+<p align='center'>
+<img src="./imgs/giphy (6).gif" width=400>
 </p>
 
 <!-- ### 😂 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+<img align='center' src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->

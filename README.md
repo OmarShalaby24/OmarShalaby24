@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Omar Shalaby</h1>
-<h4 align="center">I'm a <em>Software Engineer</em>. I graduated with a Bachelor's degree in <em>Computer and Communication Engineering</em> from <em>Alexandria University</em></h4>
+<h1 align="center">Hi there, I'm Omar Shalaby 👋</h1>
+
+<h5 align="center">Welcome to my GitHub profile! I'm <em>Omar Shalaby</em>, a passionate <em>Software and Computer Engineer</em> from Alexandria, Egypt. I love exploring new technologies and creating innovative solutions to challenging problems.</h5>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
+
 <br/>
-<br/>
+<h3>About Me</h3>
+- 🎓 I graduated with a Bachelor's degree in Computer and Communication Engineering from Alexandria University.
+  
+- 💼 Currently, I'm working remotely as a Software Engineer at RocketDevs in San Francisco.
+  
+- 💡 I thrive on solving complex problems and making things run smoothly with tools like Docker and RESTful APIs.
+  
+- 🚀 I'm always eager to learn and experiment with new technologies to stay at the cutting edge of the industry.
 
-- 🌱 I’m currently learning **Relational Database, Information Security, Back End Development and APIs**
+- 📚 I believe in continuous learning and often take online courses to improve my skills and knowledge.
+  
+- 📫 How to reach me <a href="omar.ashalaby@outlook.com">omar.ashalaby@outlook.com</a>
 
-<!-- - 👨‍💻 All of my projects are available at [""]("") -->
 
-- 💬 Ask me about **JavaScript/TypeScript, React Native, Nodejs, Express, MongoDB**
-
-- 📫 How to reach me **ramo_24@outlook.com**
-
-<!-- - 📄 Know about my experiences [Check my CV]() -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="omarshalaby24" /> </p>
-<br/>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarshalaby24&show_icons=true&locale=en&layout=compact" alt="omarshalaby24" />
@@ -37,42 +42,58 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left">
+<h5 align="left">Expert:</h5>
   <a href="https://www.java.com" title="Java"> <img src="https://skillicons.dev/icons?i=java" alt="java" /></a>
-  <a href="https://www.cprogramming.com/" title="C language"> <img src="https://skillicons.dev/icons?i=c" alt="c" /> </a>
-  <a href="https://www.w3schools.com/cpp/" title="C++"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" /></a>
-  <a href="https://www.w3schools.com/cs/" title="C#"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" /></a>
   <a href="https://www.python.org/" title="python"> <img src="https://skillicons.dev/icons?i=py" alt="python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="javascript"/></a>
   <a href="https://www.typescriptlang.org/" title="TypeScript"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a>
+
+<h5 align="left">Profient:</h5>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"> <img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"> <img src="https://skillicons.dev/icons?i=css" alt="CSs"/></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
+</p>
+<p align="left">
+<h5 align="left">Familier:</h5>
   <a href="https://www.php.net/" title="PHP"> <img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
   <a href="https://soliditylang.org/" title="Solidity"> <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" /></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" /></a>
+  <a href="https://www.cprogramming.com/" title="C language"> <img src="https://skillicons.dev/icons?i=c" alt="c" /> </a>
+  <a href="https://www.w3schools.com/cpp/" title="C++"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" /></a>
+  <a href="https://www.w3schools.com/cs/" title="C#"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" /></a>
 </p>
 
 <h3 align="left">Mobile App Development:</h3>
+<h5 align="left">Expert:</h5>
 <p align="left">
   <a href="https://reactnative.dev/" title="React native"> <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> </a>
 </p>
 
 <h3 align="left">Frontend Development:</h3>
+<h5 align="left">Profient:</h5>
 <p align="left">
-  <a href="https://getbootstrap.com/" title="Bootstrap" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
   <a href="https://react.dev/" title="ReactJs"> <img src="https://skillicons.dev/icons?i=react" alt="React" /> </a>
   <a href="https://nextjs.org/" title="Next.JS"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.JS" /> </a>
+  <a href="https://getbootstrap.com/" title="Bootstrap" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
+</p>
+<h5 align="left">Familier:</h5>
+<p align="left">
   <a href="https://mui.com/" title="MaterialUI"> <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" /> </a>
+  <a href="https://tailwindcss.com/" title="Tailwind"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /> </a>
   <a href="https://www.qt.io/" title="Qt"> <img src="https://skillicons.dev/icons?i=qt" alt="Qt" /> </a>
   <!-- <a href="https://www.markdownguide.org/" title=".md"> <img src="https://skillicons.dev/icons?i=md" alt="md" /> </a> -->
 </p>
 
 <h3 align="left">Backend Development:</h3>
-<p align="left">
+<h5 align="left">Profient:</h5>
   <a href="https://nestjs.com/" title="NestJS"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /> </a>
   <a href="https://nodejs.org/en" title="Nodejs"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> </a>
   <a href="https://expressjs.com/" title="ExpressJs"> <img src="https://skillicons.dev/icons?i=express" alt="express" /> </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> </a>
+<h5 align="left">Familier:</h5>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title="ASP.Net Core"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" /> </a>
+  <a href="https://www.docker.com/" title="Docker"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" /> </a>
+<p align="left">
 </p>
 
 <h3 align="left">Databases and Tools:</h3>
@@ -80,6 +101,7 @@
   <a href="https://www.mongodb.com/" title="MongoDB"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /> </a>
   <a href="https://www.mysql.com/" title="MySQL"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </a>
   <a href="https://www.postgresql.org/" title="PostgreSQL"> <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> </a>
+  <a href="https://www.sqlite.org/" title="SQLite"> <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /> </a>
 </p>
 
 <h3 align="left">Tools and Package Managers:</h3>

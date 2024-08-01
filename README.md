@@ -6,8 +6,9 @@
 
 <br/>
 <h2>About Me</h2>
-- 🎓 I graduated with a Bachelor's degree in Computer and Communication Engineering from Alexandria University.
   
+- 🎓 I graduated with a Bachelor's degree in Computer and Communication Engineering from Alexandria University.
+
 - 💼 Currently, I'm working remotely as a Software Engineer at RocketDevs in San Francisco.
   
 - 💡 I thrive on solving complex problems and making things run smoothly with tools like Docker and RESTful APIs.

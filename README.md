@@ -81,6 +81,7 @@
 <p align="center">
   <a href="https://react.dev/" title="ReactJs"> <img src="https://skillicons.dev/icons?i=react" alt="React" /> </a>
   <a href="https://nextjs.org/" title="Next.JS"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.JS" /> </a>
+  <a href="https://angular.dev/" title="Angular"> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" /> </a>
   <a href="https://getbootstrap.com/" title="Bootstrap" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
 </p>
 <h5 align="center">Familier:</h5>

@@ -70,10 +70,28 @@
   <a href="https://www.w3schools.com/cs/" title="C#"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" /></a>
 </p>
 
-<h2 align="center">Mobile App Development:</h2>
-<h5 align="center">Expert:</h5>
+<h2 align="center">Backend Development:</h2>
+<h5 align="center">Profient:</h5>
 <p align="center">
-  <a href="https://reactnative.dev/" title="React native"> <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> </a>
+  <a href="https://docs.spring.io/spring-framework/reference/index.html" title="Spring"> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" /> </a>
+  <a href="https://nestjs.com/" title="NestJS"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /> </a>
+  <a href="https://nodejs.org/en" title="Nodejs"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> </a>
+  <a href="https://expressjs.com/" title="ExpressJs"> <img src="https://skillicons.dev/icons?i=express" alt="express" /> </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> </a>
+  <br/>
+  <a href="https://kafka.apache.org/" title="Kafka"> <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /> </a>
+  <a href="https://www.elastic.co/elasticsearch" title="Elasticsearch"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" /> </a>
+  <a href="https://jestjs.io/" title="Jest"> <img src="https://skillicons.dev/icons?i=jest" alt="Jest" /> </a>
+  <a href="https://maven.apache.org/" title="Maven"> <img src="https://skillicons.dev/icons?i=maven" alt="Maven" /> </a>
+  
+  
+</p>
+<h5 align="center">Familier:</h5>
+<p align="center">
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title="ASP.Net Core"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" /> </a>
+  <a href="https://www.docker.com/" title="Docker"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" /> </a>
+</p>
+<p align="center">
 </p>
 
 <h2 align="center">Frontend Development:</h2>
@@ -83,29 +101,19 @@
   <a href="https://nextjs.org/" title="Next.JS"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.JS" /> </a>
   <a href="https://angular.dev/" title="Angular"> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" /> </a>
   <a href="https://getbootstrap.com/" title="Bootstrap" > <img src="https://skillicons.dev/icons?i=bootstrap" alt=Bootstrap" /> </a>
+  <a href="https://tailwindcss.com/" title="Tailwind"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /> </a>
 </p>
 <h5 align="center">Familier:</h5>
 <p align="center">
   <a href="https://mui.com/" title="MaterialUI"> <img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" /> </a>
-  <a href="https://tailwindcss.com/" title="Tailwind"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /> </a>
   <a href="https://www.qt.io/" title="Qt"> <img src="https://skillicons.dev/icons?i=qt" alt="Qt" /> </a>
   <!-- <a href="https://www.markdownguide.org/" title=".md"> <img src="https://skillicons.dev/icons?i=md" alt="md" /> </a> -->
 </p>
 
-<h2 align="center">Backend Development:</h2>
-<h5 align="center">Profient:</h5>
+<h2 align="center">Mobile App Development:</h2>
+<h5 align="center">Expert:</h5>
 <p align="center">
-  <a href="https://nestjs.com/" title="NestJS"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /> </a>
-  <a href="https://nodejs.org/en" title="Nodejs"> <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" /> </a>
-  <a href="https://expressjs.com/" title="ExpressJs"> <img src="https://skillicons.dev/icons?i=express" alt="express" /> </a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> </a>
-</p>
-<h5 align="center">Familier:</h5>
-<p align="center">
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" title="ASP.Net Core"> <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" /> </a>
-  <a href="https://www.docker.com/" title="Docker"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" /> </a>
-</p>
-<p align="center">
+  <a href="https://reactnative.dev/" title="React native"> <img src="https://skillicons.dev/icons?i=react" alt="React Native" /> </a>
 </p>
 
 <h2 align="center">Databases and Tools:</h2>
@@ -121,6 +129,7 @@
   <a href="https://www.postman.com/" title="Postman"> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> </a>
   <a href="https://git-scm.com/" title="Git"> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> </a>
   <a href="https://github.com/OmarShalaby24" title="Github"> <img src="https://skillicons.dev/icons?i=github" alt="github" /> </a>
+  <a href="https://bitbucket.org/product" title="Bitbucket"> <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /> </a>
   <a href="https://www.npmjs.com/" title="NPM"> <img src="https://skillicons.dev/icons?i=npm" alt="npm" /> </a>
   <a href="https://yarnpkg.com/" title="Yarn"> <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" /> </a>
 </p>
@@ -152,8 +161,8 @@
   <a href="https://www.leetcode.com/ramo_24" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="ramo_24"  /></a>
   <a href="https://codepen.io/omar-shalaby" ><img align="center" src="https://skillicons.dev/icons?i=codepen" alt="omar-shalaby" /></a>
   <a href="https://dev.to/omarshalaby24" ><img align="center" src="https://skillicons.dev/icons?i=devto" alt="omarshalaby24" /></a>
-  <a href="https://medium.com/@oshalaby139" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@oshalaby139" /></a>
-  <a href="https://www.hackerearth.com/@oshalaby139" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://yt3.googleusercontent.com/eHg55hwKTHKaPdmhFPZN9nDVcTYj_tlZJSHI1RNzn6fH38klq02hhAcyEPGioyXaLdIMNqX90w=s900-c-k-c0x00ffffff-no-rj" alt="@oshalaby139" /></a>
+<!--   <a href="https://medium.com/@oshalaby139" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-square-icon.png" alt="@oshalaby139" /></a> -->
+<!--   <a href="https://www.hackerearth.com/@oshalaby139" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://yt3.googleusercontent.com/eHg55hwKTHKaPdmhFPZN9nDVcTYj_tlZJSHI1RNzn6fH38klq02hhAcyEPGioyXaLdIMNqX90w=s900-c-k-c0x00ffffff-no-rj" alt="@oshalaby139" /></a> -->
   <a href="https://auth.geeksforgeeks.org/user/<oshalaby139>/profile" ><img align="center" style="border-radius:20%; width:50px; height:50px;" src="https://media.geeksforgeeks.org/wp-content/uploads/20220115184050/gfglogo.png" alt="<oshalaby139>/profile"  /></a>
 </p>
 

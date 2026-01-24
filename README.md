@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Sc. in Computer & Communication Engineering** — Alexandria University
-- 💼 **Software Engineer (Remote)** at **RocketDevs**, San Francisco
+- 💼 **Software Engineer at **Eventum Solutions**
 - 🧠 Strong in **Backend Systems, APIs, Docker & Distributed Systems**
 - 🚀 Always learning, building, and optimizing real-world solutions
 - 📚 Continuous learner through courses & hands-on projects

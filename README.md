@@ -3,10 +3,6 @@
 <h5 align="center">Backend-Focused | Problem Solver</h5>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="./imgs/giphy (4).gif" width="380"/>
 </p>
 
@@ -197,4 +193,9 @@
 
 <p align="center">
   <img src="./imgs/giphy (6).gif" width="300"/>
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omarshalaby24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
